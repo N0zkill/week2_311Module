@@ -2,7 +2,7 @@ package com.mycompany.studentlst;
 
 /**
  *
- * @author MoaathAlrajab
+ * @author Ebubekir Karaoglu
  */
 public class Student {
     
