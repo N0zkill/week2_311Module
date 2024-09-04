@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author MoaathAlrajab
+ * @author Ebubekir Karaoglu
  */
 public class StudentIT {
     
