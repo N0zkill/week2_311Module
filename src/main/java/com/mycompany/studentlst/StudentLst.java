@@ -3,7 +3,7 @@ package com.mycompany.studentlst;
 import java.util.Scanner;
 
 /**
- * @author MoaathAlrajab
+ * @author Ebubekir Karaoglu
  */
 public class StudentLst {
 
